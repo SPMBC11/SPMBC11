@@ -34,13 +34,15 @@
 ---
 
 ## 🚀 Proyectos Destacados
+Aplicación bancaria en **Java, Spring Boot y JavaFX** que permite:  
 
-### 1️⃣ HyperBank
-  Aplicación bancaria en **Java, Spring Boot y JavaFX** con:
-  - Transferencias en tiempo real  
-  - Gestión de contactos  
-  - Base de datos en CSV y SQLite  
-  **Repositorio:** [https://github.com/SPMBC11/hyper_bank](https://github.com/SPMBC11/hyper_bank)
+- ✅ Transferencias en tiempo real entre usuarios  
+- ✅ Gestión de contactos para transferencias rápidas  
+- ✅ Registro y validación de usuarios con correo  
+- ✅ Base de datos con **CSV** y **SQLite**  
+- ✅ Interfaz moderna tipo app financiera móvil
+
+**Repositorio:** [github.com/SPMBC11/hyper_bank](https://github.com/SPMBC11/hyper_bank)
 
 ### 2️⃣ Hype Loyal
 **Hype Loyal** es una plataforma de **e-commerce** desarrollada en **Python con Flask**, enfocada en la venta de **gorras** y gestión completa de pedidos.  
