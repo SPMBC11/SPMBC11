@@ -34,6 +34,8 @@
 ---
 
 ## 🚀 Proyectos Destacados
+
+### 1️⃣ HyperBank
 Aplicación bancaria en **Java, Spring Boot y JavaFX** que permite:  
 
 - ✅ Transferencias en tiempo real entre usuarios  
