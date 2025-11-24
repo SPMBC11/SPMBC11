@@ -9,7 +9,7 @@
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes de Programación:** Java, JavaScript, Python, C++, HTML, CSS , kotlin
+- **Lenguajes de Programación:** Java, JavaScript, Python, C++, HTML, CSS , Angular, React, Kotlin, Flutter
 - **Bases de Datos:** SQL, MongoDB 
 - **Desarrollo Web:** Frontend y Backend básico  
 - **Desarrollo de Apps Móviles:** Android y JavaFX  
